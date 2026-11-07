@@ -1,0 +1,7 @@
+streamlit
+langgraph>=1.2.0
+langchain-core>=1.7.0
+langchain-google-genai>=4.4.0
+google-genai>=2.30.0
+python-dotenv
+ddgs
